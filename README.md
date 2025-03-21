@@ -25,7 +25,11 @@
 ### Install Dependencies
 ```sh
  cd binary-keeda
- npm install
+ cd Backend
+ npm start
+ cd binary-keeda
+ cd Frontend
+ npm start
 ```
 ### Run the Project
 ```sh
