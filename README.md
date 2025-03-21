@@ -20,7 +20,8 @@
 ## Getting Started
 ### Clone the Repository
 ```sh
- git clone https://github.com/your-repo/binary-keeda.git
+ git clone https://github.com/Binary-Keeda/Frontend
+ git clone https://github.com/Binary-Keeda/Backend
 ```
 ### Install Dependencies
 ```sh
