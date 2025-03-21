@@ -35,6 +35,19 @@
 ```sh
  npm start
 ```
+Contribution
+
+We welcome contributions from the community! Follow these steps to contribute:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-branch)
+
+Commit your changes (git commit -m 'Add new feature')
+
+Push to the branch (git push origin feature-branch)
+
+Create a Pull Request
 ### Deployment
 - Hosted on **[binarykeeda.com](https://binarykeeda.com/)**
 - Deployment using Vercel/Netlify (or other platforms based on your setup)
