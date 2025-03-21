@@ -3,7 +3,7 @@
 ## Introduction
 [Binary Keeda](https://binarykeeda.com/) is a platform dedicated to providing high-quality resources, tutorials, and coding solutions related to computer science, programming, and technology. Our goal is to empower developers, students, and tech enthusiasts with knowledge and practical implementations in various domains like Data Structures, Algorithms, Web Development, and more
 
-This platform has been developed from scratch by Aryan, focusing on delivering a seamless learning experience and an interactive coding environment.
+This platform has been developed from scratch by https://github.com/aaryanbhandari, focusing on delivering a seamless learning experience and an interactive coding environment.
 
 ## Features
 - 📚 **Tutorials**: In-depth explanations of various programming concepts.
